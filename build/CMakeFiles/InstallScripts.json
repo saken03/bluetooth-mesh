@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/sakenserik/Desktop/cisco/project/bluetooth-mesh/build/cmake_install.cmake",
+		"/Users/sakenserik/Desktop/cisco/project/bluetooth-mesh/build/src/cmake_install.cmake",
+		"/Users/sakenserik/Desktop/cisco/project/bluetooth-mesh/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

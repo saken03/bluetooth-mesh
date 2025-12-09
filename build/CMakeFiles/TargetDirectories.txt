@@ -1,0 +1,11 @@
+/Users/sakenserik/Desktop/cisco/project/bluetooth-mesh/build/CMakeFiles/test.dir
+/Users/sakenserik/Desktop/cisco/project/bluetooth-mesh/build/CMakeFiles/edit_cache.dir
+/Users/sakenserik/Desktop/cisco/project/bluetooth-mesh/build/CMakeFiles/rebuild_cache.dir
+/Users/sakenserik/Desktop/cisco/project/bluetooth-mesh/build/src/CMakeFiles/meshnode.dir
+/Users/sakenserik/Desktop/cisco/project/bluetooth-mesh/build/src/CMakeFiles/test.dir
+/Users/sakenserik/Desktop/cisco/project/bluetooth-mesh/build/src/CMakeFiles/edit_cache.dir
+/Users/sakenserik/Desktop/cisco/project/bluetooth-mesh/build/src/CMakeFiles/rebuild_cache.dir
+/Users/sakenserik/Desktop/cisco/project/bluetooth-mesh/build/tests/CMakeFiles/dummy_test.dir
+/Users/sakenserik/Desktop/cisco/project/bluetooth-mesh/build/tests/CMakeFiles/test.dir
+/Users/sakenserik/Desktop/cisco/project/bluetooth-mesh/build/tests/CMakeFiles/edit_cache.dir
+/Users/sakenserik/Desktop/cisco/project/bluetooth-mesh/build/tests/CMakeFiles/rebuild_cache.dir
